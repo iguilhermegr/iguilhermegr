@@ -1,4 +1,4 @@
-## ✌Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
+## ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
 <p align="left">
     <a href="https://discord.gg/WhgM2M2hYr">
