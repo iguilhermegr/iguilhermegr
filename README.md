@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Se puder ajudar e gostar dos trabalhos e repositório aqui enviados de um 🌟 follow que ajuda bastante 😋
+Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
 
 <p align="left">
     <a href="#">
