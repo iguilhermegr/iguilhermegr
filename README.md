@@ -1,4 +1,4 @@
-## ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** mais conhecido por "gr" 🤗
+## ✌Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** mais conhecido por "gr" 🤗
 
 <p align="left">
     <a href="https://discord.gg/WhgM2M2hYr">
@@ -20,7 +20,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da :hcodeIcon: Hcode e da in
 
 ## 😺 Meus Principais Projetos
 
-No momemnto estou com alguns projetos e o primeiro é:
+No momento estou com alguns projetos e o primeiro é:
   ### 🐯 Mutano™
   #### O bot com os melhores recursos da DBD.JS
 ・Nesse bot tentamos aproveitar o máximo da DBD.JS usando de vários jeitos todos os recursos da DBD.JS tendo cor da embed pelo cargo mais alto, autorole, set-welcome com image e message setavel anti-invite e muito mais!
