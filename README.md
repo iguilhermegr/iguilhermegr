@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/783790297930661928/836053059997663282/PicsArt_04-25-10.44.53.jpg">
+<img src="https://camo.githubusercontent.com/0f98dc9c844f0c55e4da65ebe97db2f4097d9c2e8e75b6c3cb80f4ba6af27d0b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3738333739303239373933303636313932382f3833363035333035393939373636333238322f506963734172745f30342d32352d31302e34342e35332e6a7067" data-canonical-src="https://cdn.discordapp.com/attachments/783790297930661928/836053059997663282/PicsArt_04-25-10.44.53.jpg" style="width:100%; height:400px; align-items:center; border-radius:2.5%;">
 
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
