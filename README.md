@@ -36,10 +36,10 @@ No momento estou com alguns projetos e o primeiro é:
 
 ## 📈 Meus Dados e últimos resultados em meu GitHub
 
-<p align = "center">
+<p align="center">
   <a href="https://github.com/guilhermedsribeiro/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27&title_color=#e8ffff&bg_color=DEG,#9FC9FE,#1980FF" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27&title_color=#e8ffff&bg_color=DEG,#9FC9FE,#1980FF" style="max-width:100%;">
   </a>
 </p>
 
