@@ -3,8 +3,14 @@
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
 <p align="left">
-    <a href="https://discord.gg/WhgM2M2hYr">
-        <img alt="Meu Discord" src="https://img.shields.io/badge/Discord-guih.rib%231511-blue">
+    <a href="https://discord.com/users/745705784473551100">
+        <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%231511&color=blue">
+    </a>
+    <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
+        <img alt="My linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=blue">
+    </a>
+    <a href="https://twitter.com/grRib16">
+        <img alt="My twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=blue">
     </a>
 </p>
 
