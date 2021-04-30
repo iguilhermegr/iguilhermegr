@@ -1,8 +1,10 @@
-## ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
+<img src="https://cdn.discordapp.com/attachments/783790297930661928/836053059997663282/PicsArt_04-25-10.44.53.jpg">
+
+# ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
 <p align="left">
     <a href="https://discord.gg/WhgM2M2hYr">
-        <img alt="Meu Discord" src="https://img.shields.io/badge/Discord-guih.rib%231511-green">
+        <img alt="Meu Discord" src="https://img.shields.io/badge/Discord-guih.rib%231511-blue">
     </a>
 </p>
 
@@ -36,5 +38,5 @@ No momento estou com alguns projetos e o primeiro é:
 </p>
 
 ```diff
-! Bem vindo ao meu GitHub !
++ Bem vindo ao meu GitHub +
 ```
