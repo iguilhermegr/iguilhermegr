@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/783790297930661928/836053059997663282/PicsArt_04-25-10.44.53.jpg?size=1028" style="width:100%; height:400px; align-items:center; border-radius:2.5%;">
+<img src="https://cdn.discordapp.com/attachments/783790297930661928/836053059997663282/PicsArt_04-25-10.44.53.jpg?size=1028" style="width:400px; height:400px; align-items:center; border-radius:2.5%;">
 
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
