@@ -17,15 +17,15 @@ Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 
 </p>
 
 ## 🤔 About
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da :hcodeIcon: Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
+Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
 ・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcode e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito eu poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript tirarem melhor proveito 😄. Este projeto no qual estou falando é **open-source aqui no GitHub** [Clique Aqui](https://github.com/guilhersribeiro/Hcode-Curso-JavaScript) para conhecer.
 
 ## 😺 Meus Principais Projetos
 
 No momento estou com alguns projetos e o primeiro é:
   ### 🐯 Mutano™
-  #### O bot com os melhores recursos da DBD.JS
-・Nesse bot tentamos aproveitar o máximo da DBD.JS usando de vários jeitos todos os recursos da DBD.JS tendo cor da embed pelo cargo mais alto, autorole, set-welcome com image e message setavel anti-invite e muito mais!
+  #### O bot com os melhores recursos da Aoi.js
+・Nesse bot tentamos aproveitar o máximo da Aoi.js usando de vários jeitos todos os recursos da DBD.JS tendo cor da embed pelo cargo mais alto, autorole, set-welcome com image e message setavel anti-invite e muito mais!
 ・Adicione ele em seu servidor do Discord (<a href="https://discord.com/oauth2/authorize?client_id=763109929300262953&permissions=8&redirect_uri=https://www.zuraaa.com/bots/763109929300262953/&response_type=code&scope=identify%20bot">Clique aqui para "Add"</a>).<br>
 
 ## 📈 Meus Dados e últimos resultados em meu GitHub
