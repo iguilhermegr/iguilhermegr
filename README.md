@@ -17,7 +17,7 @@
 Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
 
 <p align="left">
-    <a href="https://github.com/guilhermedsribeiro?tab=following">
+    <a href="https://github.com/guilhermedsribeiro?tab=followers">
         <img alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
     </a>
 </p>
