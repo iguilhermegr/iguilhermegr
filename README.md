@@ -32,8 +32,8 @@ No momento estou com alguns projetos e o primeiro é:
 
 <p align = "center">
   <a href="https://github.com/guilhermedsribeiro/">
-    <img src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27" style="max-width:100%;">
   </a>
 </p>
 
