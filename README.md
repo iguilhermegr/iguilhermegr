@@ -10,7 +10,7 @@
         <img alt="My linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=blue">
     </a>
     <a href="mailto:guiguiribeiro.2020@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com;link=mailto:guiguiribeiro.2020@gmail.com&color=blue">
+        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=blue">
     </a>
     <a href="https://twitter.com/grRib16">
         <img alt="My twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=blue">
