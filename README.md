@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://discord.com/users/745705784473551100">
-        <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%231511&color=blue">
+        <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message='gr%231511&color=blue">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="My linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=blue">
