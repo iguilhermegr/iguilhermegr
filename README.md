@@ -33,7 +33,9 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
     </a>
 </p>
 
-## 📈 Meus Dados e últimos resultados em meu GitHub
+<div align="center">
+    <h2>📈 Meus Dados e últimos resultados em meu GitHub</h2>
+</div>
 
 <p align="center">
   <a href="https://github.com/guilhermedsribeiro/">
