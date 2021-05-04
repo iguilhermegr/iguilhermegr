@@ -18,7 +18,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
 <div align="center">
     <h2>👤 Contato</h2>
 </div>
-<p align="left">
+<p align="center">
     <a href="https://discord.com/users/745705784473551100">
         <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%231511&color=blue">
     </a>
