@@ -43,7 +43,5 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
 </p>
 
 <div align="center">
-    ```diff
-    + Bem vindo ao Meu GitHub +
-    ```
+    <p style="color: blue; font-size: 50px;">Bem vindo ao Meu GitHub!</p>
 <div>
