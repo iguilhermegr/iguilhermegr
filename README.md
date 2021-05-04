@@ -6,7 +6,7 @@ Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 
 
 <p align="left">
     <a href="https://github.com/guilhermedsribeiro?tab=followers">
-        <img alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
+        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
     </a>
 </p>
 
