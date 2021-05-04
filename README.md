@@ -2,6 +2,20 @@
 
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
+Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
+
+<p align="left">
+    <a href="https://github.com/guilhermedsribeiro?tab=followers">
+        <img alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
+    </a>
+</p>
+
+## 🤔 About
+Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
+・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcode e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito eu poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript tirarem melhor proveito 😄. Este projeto no qual estou falando é **open-source aqui no GitHub** [Clique Aqui](https://github.com/guilhersribeiro/Hcode-Curso-JavaScript) para conhecer.
+
+## 👤 Contato
+
 <p align="left">
     <a href="https://discord.com/users/745705784473551100">
         <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%231511&color=blue">
@@ -16,26 +30,6 @@
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=blue">
     </a>
 </p>
-
-Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
-
-<p align="left">
-    <a href="https://github.com/guilhermedsribeiro?tab=followers">
-        <img alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
-    </a>
-</p>
-
-## 🤔 About
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
-・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcode e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito eu poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript tirarem melhor proveito 😄. Este projeto no qual estou falando é **open-source aqui no GitHub** [Clique Aqui](https://github.com/guilhersribeiro/Hcode-Curso-JavaScript) para conhecer.
-
-## 😺 Meus Principais Projetos
-
-No momento estou com alguns projetos e o primeiro é:
-  ### 🐯 Mutano™
-  #### O bot com os melhores recursos da Aoi.JS
-・Nesse bot tentamos aproveitar o máximo da Aoi.JS usando de vários jeitos todos os recursos da Aoi.JS tendo cor da embed pelo cargo mais alto, autorole, set-welcome com image e message setavel anti-invite e muito mais!
-・Adicione ele em seu servidor do Discord (<a href="https://discord.com/oauth2/authorize?client_id=763109929300262953&permissions=8&redirect_uri=https://www.zuraaa.com/bots/763109929300262953/&response_type=code&scope=identify%20bot">Clique aqui para "Add"</a>).<br>
 
 ## 📈 Meus Dados e últimos resultados em meu GitHub
 
