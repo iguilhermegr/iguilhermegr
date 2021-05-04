@@ -5,9 +5,11 @@
 Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
 
 <p align="right">
-    <a href="https://github.com/guilhermedsribeiro?tab=followers">
-        <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
-    </a>
+    <div align="center">
+        <a href="https://github.com/guilhermedsribeiro?tab=followers">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
+        </a>
+    </div>
 </p>
 
 ## 🤔 About
@@ -40,4 +42,6 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
   </a>
 </p>
 
-<span align="center" style="color: blue">Bem vindo ao Meu GitHub!</span>
+<div align="center">
+    <span align="center" style="color: blue">Bem vindo ao Meu GitHub!</span>
+<div>
