@@ -40,4 +40,4 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
   </a>
 </p>
 
-![#338cf2](Bem vindo ao meu GitHub) `#338cf2`
+<span style="color: #338cf2">`Bem vindo ao Meu GitHub!</span>
