@@ -40,4 +40,4 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
   </a>
 </p>
 
-<span style="color: blue">Bem vindo ao Meu GitHub!</span>
+<span align="center" style="color: blue">Bem vindo ao Meu GitHub!</span>
