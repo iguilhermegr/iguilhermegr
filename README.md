@@ -1,10 +1,10 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/745725093610520646/837739221510782996/banner_README.jpg" style="width:400px; height:400px; max-width:100%;">
+<img align="left" src="https://cdn.discordapp.com/attachments/745725093610520646/837739221510782996/banner_README.jpg" style="width:400px; height:400px; max-width:100%;">
 
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
 Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
 
-<p align="left">
+<p align="right">
     <a href="https://github.com/guilhermedsribeiro?tab=followers">
         <img align="center" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
     </a>
