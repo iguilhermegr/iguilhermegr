@@ -15,9 +15,9 @@ Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 
 ## 🤔 About
 Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
 ・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcode e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito eu poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript tirarem melhor proveito 😄. Este projeto no qual estou falando é **open-source aqui no GitHub** [Clique Aqui](https://github.com/guilhersribeiro/Hcode-Curso-JavaScript) para conhecer.
-
-## 👤 Contato
-
+<div align="center">
+    ## 👤 Contato
+</div>
 <p align="left">
     <a href="https://discord.com/users/745705784473551100">
         <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%231511&color=blue">
