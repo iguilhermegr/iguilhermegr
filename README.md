@@ -2,7 +2,7 @@
 
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
-> Support at **@hcodebr** 🦔
+> Blogger at **@hcodebr** 🦔
 
 Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
 
