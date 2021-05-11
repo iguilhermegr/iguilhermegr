@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/61317250/117881409-9aa49480-b27f-11eb-81b0-d67ccd50eb6e.png" style="width:400px; height:400px; border: 50px; max-width:100%;">
+<img align="right" src="https://user-images.githubusercontent.com/61317250/117884758-66cb6e00-b283-11eb-93a8-09240d12914f.png" style="width:400px; height:400px; border: 50px; max-width:100%;">
 
 # ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
 
