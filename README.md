@@ -23,13 +23,13 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
 </div>
 <p align="center">
     <a href="https://discord.com/users/745705784473551100">
-        <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=Guilherme%20Ribeiro%231511&color=f0743e">
+        <img alt="My discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=Guilherme%20Ribeiro%231511&color=B2D2E9">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="My linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
     </a>
     <a href="https://twitter.com/grRib16">
-        <img alt="My twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=f0743e">
+        <img alt="My twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=B2D2E9">
     </a>
     <a href="mailto:guiguiribeiro.2020@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=f0743e">
