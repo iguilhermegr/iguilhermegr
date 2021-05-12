@@ -16,7 +16,7 @@ Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 
 
 <h4>🤔 About
 Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
-・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcode e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito e poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript, tirarem melhor proveito 😄. Este projeto no qual estou falando é <b>open-source aqui no GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Clique Aqui</a> para conhecer.
+・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcodebr e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito e poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript, tirarem melhor proveito 😄. Este projeto no qual estou falando é <b>open-source aqui no GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Clique Aqui</a> para conhecer.
 </h4>
 <div align="center">
     <h2>👤 Contato</h2>
