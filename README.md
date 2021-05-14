@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/61317250/117884758-66cb6e00-b283-11eb-93a8-09240d12914f.png" style="width:400px; height:400px; border: 50px; max-width:100%;">
 
-# ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" 🤗
+# ✌ Olá tudo bem? Espero que sim... Meu nome é **Guilherme Ribeiro** conhecido por "gr" ![hedgehog](https://user-images.githubusercontent.com/61317250/118309944-581fc980-b4c4-11eb-8de8-f56fdb2b3ccc.gif)
 
 > Blogger at **@hcodebr** 🦔
 
@@ -9,7 +9,7 @@ Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 
 <p align="left">
     <div align="center">
         <a href="https://github.com/guilhermedsribeiro?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?label=followers&style=social">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=62b4ef">
         </a>
     </div>
 </p>
