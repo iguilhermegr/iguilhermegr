@@ -36,7 +36,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="Meu Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
     </a>
-    <a href="https://twitter.com/grRib16">
+    <a href="https://twitter.com/guihdsribeiro">
         <img alt="Meu Twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=62b4ef">
     </a>
     <a href="mailto:guiguiribeiro.2020@gmail.com">
