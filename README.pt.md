@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/guilhermedsribeiro/guilhermedsribeiro" alt="English">
+    <a href="https://github.com/guilhermedsribeiro/" alt="English">
         <img alt="English" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
     </a>
 </div>
