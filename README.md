@@ -1,11 +1,13 @@
 <div align="center">
-    <img src="https://img.shields.io/endpoint?url=https://github.com/guilhermedsribeiro/guilhermedsribeiro/blob/main/README.pt.md&style=flat-square&message=Português&color=brightgreen" alt="Português">
+    <a href="https://github.com/guilhermedsribeiro/guilhermedsribeiro/blob/main/README.pt.md" alt="Português">
+        <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Portuguese&color=555555">
+    </a>
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
-# ✌ Olá tudo bem? Espero que sim... 
-# Meu nome é Guilherme Ribeiro ![hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
+# ✌ Hi all right, I hope so.... 
+# My name is Guilherme Ribeiro! hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
 
 > Blogger at **@hcodebr** 🦔
 
@@ -25,7 +27,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de
 ・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcodebr e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito e poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript, tirarem melhor proveito 😄. Este projeto no qual estou falando é <b>open-source aqui no GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Clique Aqui</a> para conhecer.
 </h4>
 <div align="center">
-    <h2>👤 Contato</h2>
+    <h2>👤 Contact</h2>
 </div>
 <p align="center">
     <a href="https://discord.com/users/745705784473551100">
