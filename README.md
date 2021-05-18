@@ -35,7 +35,7 @@ I met HTML on December 13, 2019 through Hcode and @joaohrangel's recommendation 
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
     </a>
-    <a href="https://twitter.com/grRib16">
+    <a href="https://twitter.com/guihdsribeiro">
         <img alt="My Twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=62b4ef">
     </a>
     <a href="mailto:guiguiribeiro.2020@gmail.com">
