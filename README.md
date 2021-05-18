@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://img.shields.io/endpoint?url=https://github.com/guilhermedsribeirodsribeiro/guilhermedsribeiro/README.pt.md&style=flat-square&message=Português&color=brightgreen" alt="Português">
+</div>
+
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 # ✌ Olá tudo bem? Espero que sim... 
@@ -5,7 +9,7 @@
 
 > Blogger at **@hcodebr** 🦔
 
-Se puder ajudar e gostar dos trabalhos e repositórios aqui enviados de um 🌟 follow que ajuda bastante 😋
+If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
 
 <p align="left">
     <div align="center">
