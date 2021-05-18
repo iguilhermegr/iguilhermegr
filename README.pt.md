@@ -6,7 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
-# ✌ Olá tudo bem? Espero que sim...  
+# ✌ Olá, tudo bem? Espero que sim...  
 # Meu nome é Guilherme Ribeiro! ![hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
 
 > Blogger em **@hcodebr** 🦔
