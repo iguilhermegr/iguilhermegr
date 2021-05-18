@@ -23,8 +23,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 
 <h2>🤔 About</h2>
 <h4>
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e da indicação de @joaohrangel para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end para num futuro próximo me especializar e trabalhar com isso!
-・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da @hcodebr e com o que estou aprendendo estou fazendo anotações e trazendo as explicações em dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito e poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript, tirarem melhor proveito 😄. Este projeto no qual estou falando é <b>open-source aqui no GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Clique Aqui</a> para conhecer.
+I met HTML on December 13, 2019 through Hcode and @joaohrangel's recommendation for this wonderful course. Since then I've been looking to learn more and more about front-end so that in the near future I can specialize and work with it! ・Currently focused on the Complete JavaScript Course with 6 Real Projects from @hcodebr and with what I'm learning I'm taking notes and bringing the explanations in an index.js accompanied by a summary in index.html so that others, both those who take the course take the best advantage and can be helped with my notes; or also those who are just learning JavaScript, take the best advantage 😄. This project I'm talking about is open-source here on GitHub https://github.com/guilhersribeiro/Hcode-Curso-JavaScriptClick Here</a>.
 </h4>
 <div align="center">
     <h2>👤 Contact</h2>
