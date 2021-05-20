@@ -11,7 +11,7 @@
 
 > Blogger em **@hcodebr** 🦔
 
-Se puder gostou dos trabalhos e repositórios publicados aqui, se puder follow 🌟 vai ajuda muito 😋
+Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow 🌟 vai ajudar muito 😋
 
 <p align="left">
     <div align="center">
