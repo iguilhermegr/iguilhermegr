@@ -30,7 +30,7 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
 </div>
 <p align="center">
     <a href="https://discord.com/users/745705784473551100">
-        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=Guilherme%20Ribeiro%238639&color=62b4ef">
+        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guilhermedsribeiro%238639&color=62b4ef">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
