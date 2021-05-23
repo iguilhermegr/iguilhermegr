@@ -31,7 +31,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 </div>
 <p align="center">
     <a href="https://discord.com/users/745705784473551100">
-        <img alt="Meu Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=Guilherme%20Ribeiro%238639&color=62b4ef">
+        <img alt="Meu Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guilhermedsribeiro%238639&color=62b4ef">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="Meu Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
