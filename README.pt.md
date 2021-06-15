@@ -84,8 +84,8 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 
 <p align="center">
   <a href="https://github.com/guilhermedsribeiro/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27&title_color=#e8ffff&bg_color=DEG,#9FC9FE,#1980FF" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27&title_color=#e8ffff&bg_color=DEG,#9FC9FE,#1980FF" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
   </a>
 </p>
 
