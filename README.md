@@ -27,6 +27,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 <h4>
 I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/joaohcrangel">@joaohrangel</a> recommendation for this wonderful course. Since then I've been looking to learn more and more about front-end so that in the near future I can specialize and work with it! ・Currently focused on the Complete JavaScript Course with 6 Real Projects from <a href="https://github.com/hcodebr" alt="Hcode Treinamentos">@hcodebr</a> and with what I'm learning I'm taking notes and bringing the explanations in an index.js accompanied by a summary in index.html so that others, both those who take the course take the best advantage and can be helped with my notes; or also those who are just learning JavaScript, take the best advantage 😄. This project I'm talking about is <b>open-source here on GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Click Here</a> to find out.
 </h4>
+
 <div align="center">
     <h2>👤 Contact</h2>
 </div>
@@ -44,6 +45,36 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
         <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=f0743e">
     </a>
 </p>
+
+<div align="center">
+    <h2>📑 Languages</h2>
+    <p align="center">
+        <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+    </p>
+    
+    <h2>📑 FrameWorks</h2>
+    <p align="center">
+        <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+    </p>
+    
+    <h2>🎨 Design</h2>
+    <p align="center">
+        <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+        <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+    </p>
+    
+    <h2>🧭 IDEs and Version Control</h2>
+    <p align="center">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </p>
+</div>
 
 <div align="center">
     <h2>📈 My Data and Latest Results on my GitHub</h2>
