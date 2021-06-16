@@ -22,7 +22,8 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 <p align="left">
     <div align="center">
         <a href="https://github.com/guilhermedsribeiro?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=62b4ef">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=flat&amp;logo=github&amp;label=followers&amp;color=62b4ef">
+            <img align="left" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=guilhermedsribeiro.visitor-badge">
         </a>
     </div>
 </p>
