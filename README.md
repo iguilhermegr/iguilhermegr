@@ -3,10 +3,6 @@
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Portuguese&color=555555">
     </a>
 </div>
-<br>
-<div align="center">
-    <img alt="Hcode Café" src="https://user-images.githubusercontent.com/61317250/122146186-f4731e00-ce2c-11eb-8460-44c1aa2acd15.png">
-</div>
 
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
