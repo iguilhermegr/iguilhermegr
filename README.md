@@ -3,6 +3,10 @@
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Portuguese&color=555555">
     </a>
 </div>
+<br>
+<div align="center">
+    <img alt="Hcode Café" src="https://user-images.githubusercontent.com/61317250/122144042-094db280-ce29-11eb-9e81-907d70a0404f.jpg">
+</div>
 
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
@@ -18,8 +22,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 <p align="left">
     <div align="center">
         <a href="https://github.com/guilhermedsribeiro?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=plstic&amp;logo=github&amp;label=Followers&amp;color=62b4ef">
-            <img align="left" alt="Follow" src="https://visitor-badge.glitch.me/badge?page_id=guilhermedsribeiro.visitor-badge">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=62b4ef">
         </a>
     </div>
 </p>
