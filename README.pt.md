@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-    <img alt="Hcode Café" src="https://user-images.githubusercontent.com/61317250/122144042-094db280-ce29-11eb-9e81-907d70a0404f.jpg">
+    <img alt="Hcode Café" src="https://user-images.githubusercontent.com/61317250/122144884-abba6580-ce2a-11eb-8886-cedb4c319116.jpg">
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
