@@ -52,7 +52,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 </p>
 
 <div align="center">
-    <h2>📑 Linguagens Frameworks e Ferramentas</h2>
+    <h2>📑 Tecnologias e Ferramentas</h2>
     <p align="center">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
