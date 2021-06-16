@@ -18,7 +18,8 @@ Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow �
 <p align="left">
     <div align="center">
         <a href="https://github.com/guilhermedsribeiro?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=62b4ef">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=plstic&amp;logo=github&amp;label=Followers&amp;color=62b4ef">
+            <img align="left" alt="Follow" src="https://visitor-badge.glitch.me/badge?page_id=guilhermedsribeiro.visitor-badge">
         </a>
     </div>
 </p>
@@ -51,27 +52,17 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 </p>
 
 <div align="center">
-    <h2>📑 Linguagens</h2>
+    <h2>📑 Linguagens Frameworks e Ferramentas</h2>
     <p align="center">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
         <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-    </p>    
-    <h2>📑 FrameWorks</h2>
-    <p align="center">
         <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
         <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-    </p>
-    <h2>🎨 Design</h2>
-    <p align="center">
         <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
         <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-    </p>
-    <h2>🧭 IDEs e Controle de Versão</h2>
-    <p align="center">
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
         <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
