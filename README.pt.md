@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/guilhermedsribeiro/" alt="English">
+    <a href="https://github.com/guihrib/" alt="English">
         <img alt="English" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
     </a>
 </div>
@@ -17,9 +17,9 @@ Se gostou dos trabalhos e repositÃ³rios publicados aqui, e se puder dar follow ð
 
 <p align="left">
     <div align="center">
-        <a href="https://github.com/guilhermedsribeiro?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guilhermedsribeiro?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
-            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=guilhermedsribeiro">
+        <a href="https://github.com/guihrib?tab=followers">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guihrib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
+            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=guihrib">
         </a>
     </div>
 </p>
@@ -35,7 +35,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 </div>
 <p align="center">
     <a href="https://discord.com/users/745705784473551100">
-        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guilhermedsribeiro%238639&color=62b4ef">
+        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%238639&color=62b4ef">
     </a>
     <a href="https://app.rocketseat.com.br/me/guilhermedsribeiro">
         <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=f0743e">
@@ -85,9 +85,9 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 </div>
 
 <p align="center">
-  <a href="https://github.com/guilhermedsribeiro/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedsribeiro&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsribeiro&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
+  <a href="https://github.com/guihrib/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihrib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
   </a>
 </p>
 
