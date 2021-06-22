@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/guilhermedsribeiro/guilhermedsribeiro/blob/main/README.pt.md" alt="Portuguese">
+    <a href="https://github.com/guihrib/guihrib/blob/main/README.pt.md" alt="Portuguese">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Portuguese&color=555555">
     </a>
 </div>
@@ -17,7 +17,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 
 <p align="left">
     <div align="center">
-        <a href="https://github.com/guilhermedsribeiro?tab=followers">
+        <a href="https://github.com/guihrib?tab=followers">
             <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guihrib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
             <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=guihrib">
         </a>
