@@ -9,9 +9,9 @@
 # ✌ Olá, tudo bem? Espero que sim...  
 # Meu nome é Guilherme Ribeiro e tenho 16 anos! ![hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
 
-> Blogger em **@hcodebr** 🦔
-
 > Organizador de índices em **@hcode-cafe** ☕
+
+> Blogger em **@hcodebr** 🦔
 
 Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow 🌟 vai ajudar muito 😋
 
@@ -35,7 +35,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
 </div>
 <p align="center">
     <a href="https://discord.com/users/745705784473551100">
-        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%238639&color=62b4ef">
+        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%230343&color=62b4ef">
     </a>
     <a href="https://app.rocketseat.com.br/me/guilhermedsribeiro">
         <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=f0743e">
