@@ -34,20 +34,17 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
     <h2>👤 Contact</h2>
 </div>
 <p align="center">
-    <a href="https://discord.com/users/745705784473551100">
-        <img alt="My Discord" src="https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&message=guih.rib%230343&color=62b4ef">
-    </a>
     <a href="https://app.rocketseat.com.br/me/guilhermedsribeiro">
-        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=f0743e">
+        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=62b4ef">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
-        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=62b4ef">
+        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
     </a>
     <a href="https://twitter.com/guihdsribeiro">
-        <img alt="My Twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=f0743e">
+        <img alt="My Twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=62b4ef">
     </a>
     <a href="mailto:guiguiribeiro.2020@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=62b4ef">
+        <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=f0743e">
     </a>
 </p>
 
