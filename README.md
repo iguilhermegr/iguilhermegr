@@ -4,10 +4,10 @@
     </a>
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/61317250/118313399-0fb6da80-b4c9-11eb-96f1-55458a5af3f1.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
+<img align="right" src="https://user-images.githubusercontent.com/61317250/127886709-f76743c3-6258-4f05-a7b3-4996493ef0ee.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 # ✌ Hi all right, I hope so...
-# My name is Guilherme Ribeiro and I am 16 years old! ![hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
+# My name is Guilherme Ribeiro and Im 16 years! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
 > CEO at **@TeamMutano** 🐯
 
@@ -28,7 +28,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 
 <h2>🤔 About</h2>
 <h4>
-I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/joaohcrangel">@joaohrangel</a> recommendation for this wonderful course. Since then I've been looking to learn more and more about front-end so that in the near future I can specialize and work with it! ・Currently focused on the Complete JavaScript Course with 6 Real Projects from <a href="https://github.com/hcodebr" alt="Hcode Treinamentos">@hcodebr</a> and with what I'm learning I'm taking notes and bringing the explanations in an index.js accompanied by a summary in index.html so that others, both those who take the course take the best advantage and can be helped with my notes; or also those who are just learning JavaScript, take the best advantage 😄. This project I'm talking about is <b>open-source here on GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Click Here</a> to find out.
+I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/joaohcrangel">@joaohrangel</a> recommendation for this wonderful course. Since then I've been looking to learn more and more about front-end so that in the near future I can specialize and work with it! ・Currently focused on the Complete JavaScript Course with 6 Real Projects from <a href="https://github.com/hcodebr" alt="Hcode Treinamentos">@hcodebr</a> and with what Im learning Im taking notes and bringing the explanations in an index.js accompanied by a summary in index.html so that others, both those who take the course take the best advantage and can be helped with my notes; or also those who are just learning JavaScript, take the best advantage 😄.
 </h4>
 
 <div align="center">
@@ -36,16 +36,34 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
 </div>
 <p align="center">
     <a href="https://app.rocketseat.com.br/me/guilhermedsribeiro">
-        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=62b4ef">
+        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=9E938E">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
-        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=f0743e">
-    </a>
-    <a href="https://twitter.com/guihdsribeiro">
-        <img alt="My Twitter" src="https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=Twitter&message=Guilherme%20Ribeiro&color=62b4ef">
+        <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=D7D2D0">
     </a>
     <a href="mailto:guiguiribeiro.2020@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=f0743e">
+        <img alt="My Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=guiguiribeiro.2020@gmail.com&color=9E938E">
+    </a>
+</p>
+
+<div align="center">
+    <h2>✌ Social</h2>
+</div>
+<p align="center">
+    <a href="https://discord.com/users/852616816240885760">
+        <img alt="Discord" src="https://img.shields.io/badge/'gr%231904-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/guihdsribeiro">
+        <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/guih.rib/">
+        <img alt="Instagram" src="https://img.shields.io/badge/guih.rib-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.tiktok.com/@guihrib">
+        <img alt="TikTok" src="https://img.shields.io/badge/@guihrib-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+    </a>
+    <a href="https://www.twitch.tv/gr_rib">
+        <img alt="Twitch" src="https://img.shields.io/badge/gr_rib-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
     </a>
 </p>
 
@@ -57,6 +75,7 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+        <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
         <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
         <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
         <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -84,8 +103,8 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
 
 <p align="center">
   <a href="https://github.com/guihrib/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihrib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,62b4ef,f0743e" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihrib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
   </a>
 </p>
 
