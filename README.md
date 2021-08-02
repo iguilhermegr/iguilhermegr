@@ -1,6 +1,11 @@
 <div align="center">
+    <a href="https://github.com/guihrib/" alt="English">
+        <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
+    </a>
+</div>
+<div align="center">
     <a href="https://github.com/guihrib/guihrib/blob/main/README.pt.md" alt="Portuguese">
-        <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=Portuguese&color=555555">
+        <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Traduzir%20para&message=Portugues&color=555555">
     </a>
 </div>
 
