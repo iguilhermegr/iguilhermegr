@@ -114,7 +114,11 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
   </a>
 </div>
 
-  ![Snake animation](https://github.com/guihrib/guihrib/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/guihrib/">
+    <img alt="Snake Commit" src="https://github.com/guihrib/guihrib/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</div>
 
 <div align="center">
     <p style="color: blue; font-size: 50px;">Bem vindo ao Meu GitHub!</p>
