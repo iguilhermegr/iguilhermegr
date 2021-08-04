@@ -112,7 +112,7 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
   </a>
 </div>
 
-![Snake animation](https://github.com/guihrib/guihrib/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guihrib/guihrib/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <p style="color: blue; font-size: 50px;">Welcome to My GitHub!  </p>
