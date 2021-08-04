@@ -107,12 +107,14 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da i
     <h2>📈 Meus Dados e últimos resultados em meu GitHub</h2>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/guihrib/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihrib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
   </a>
-</p>
+</div>
+
+  ![Snake animation](https://github.com/guihrib/guihrib/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <p style="color: blue; font-size: 50px;">Bem vindo ao Meu GitHub!</p>
