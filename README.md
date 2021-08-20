@@ -56,7 +56,7 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
 </div>
 <p align="center">
     <a href="https://discord.com/users/852616816240885760">
-        <img alt="Discord" src="https://img.shields.io/badge/'gr%231904-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/'GR™%230908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://twitter.com/guihdsribeiro">
         <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
