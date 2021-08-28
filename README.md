@@ -34,7 +34,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 <h2 align="center">🤔 My Projects</h2>
 
 > ## 🐯 Mutano™
-> ・A simple bot trying to bring the best of being multifunctional to your server and made in Aoi.js</p>
+> ・A simple bot trying to bring the best of being multifunctional to your server and made in Aoi.js
 > [Click here](https://github.com/MutanoOrg) for more informations :3
 
 
