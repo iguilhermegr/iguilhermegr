@@ -14,14 +14,14 @@
 # ✌ Hi all right, I hope so...
 # My name is Guilherme Ribeiro and Im 16 years! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
-> CEO at **@TeamMutano** 🐯
-
-> Index Organizer at **@hcode-cafe** ☕
-
-> Blogger at **@hcodebr** 🦔
+> CEO at **@MutanoOrg** 🐯
 
 If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
 
+## 🤔 About
+・Developer FullStack 📚 Junior
+・Web🎨Designer
+・Free time 🎮Gamer
 <p align="left">
     <div align="center">
         <a href="https://github.com/guihrib?tab=followers">
@@ -31,10 +31,12 @@ If you can help and like the works and repositories posted here from a 🌟 foll
     </div>
 </p>
 
-<h2>🤔 About</h2>
-<h4>
-I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/joaohcrangel">@joaohrangel</a> recommendation for this wonderful course. Since then I've been looking to learn more and more about front-end so that in the near future I can specialize and work with it! ・Currently focused on the Complete JavaScript Course with 6 Real Projects from <a href="https://github.com/hcodebr" alt="Hcode Treinamentos">@hcodebr</a> and with what Im learning Im taking notes and bringing the explanations in an index.js accompanied by a summary in index.html so that others, both those who take the course take the best advantage and can be helped with my notes; or also those who are just learning JavaScript, take the best advantage 😄. This project I'm talking about is <b>open-source here on GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Click Here</a> to find out.
-</h4>
+<h2 align="center">🤔 My Projects</h2>
+
+> ## 🐯 Mutano™
+> ・A simple bot trying to bring the best of being multifunctional to your server and made in Aoi.js</p>
+> [Click here](https://github.com/MutanoOrg) for more informations :3
+
 
 <div align="center">
     <h2>👤 Contact</h2>
@@ -56,7 +58,7 @@ I met HTML on December 13, 2019 through Hcode and <a href="https://github.com/jo
 </div>
 <p align="center">
     <a href="https://discord.com/users/852616816240885760">
-        <img alt="Discord" src="https://img.shields.io/badge/'GR™%230908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/gr™%231511-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://twitter.com/guihdsribeiro">
         <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
