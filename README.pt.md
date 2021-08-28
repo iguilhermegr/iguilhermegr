@@ -14,14 +14,14 @@
 # ✌ Olá, tudo bem? Espero que sim...  
 # Meu nome é Guilherme Ribeiro e tenho 16 anos! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
-> CEO em **@TeamMutano** 🐯
-
-> Organizador de índices em **@hcode-cafe** ☕
-
-> Blogger em **@hcodebr** 🦔
+> CEO em **@MutanoOrg** 🐯
 
 Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow 🌟 vai ajudar muito 😋
 
+## 🤔 Sobre
+・Desenvolvedor FullStack 📚 Junior
+・Web🎨Designer
+・Em tempo livre 🎮Gamer
 <p align="left">
     <div align="center">
         <a href="https://github.com/guihrib?tab=followers">
@@ -31,11 +31,11 @@ Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow �
     </div>
 </p>
 
-<h2>🤔 Sobre</h2>
-<h4>
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode Treinamentos e da indicação de <a href="https://github.com/joaohcrangel">@joaohrangel</a> para esse curso maravilhoso. Desde de lá venho procurando aprender mais e mais de front-end
-・Atualmente focado no Curso Completo de JavaScript com 6 Projetos Reais da <a href="https://github.com/hcodebr" alt="Hcode Treinamentos">@hcodebr</a> e com o que estou aprendendo estou fazendo anotações e trazendo as explicações dentro de uma index.js acompanhada de um sumário no index.html para que outros, tanto que fazem o curso tirarem o melhor proveito e poderem ser ajudados com minha anotações; ou também os que estão apenas apredendo JavaScript, tirarem melhor proveito 😄. Este projeto no qual estou falando é <b>open-source aqui no GitHub</b> <a href="https://github.com/guilhersribeiro/Hcode-Curso-JavaScript">Clique Aqui</a> para conhecer.
-</h4>
+<h2 align="center">🤔 Meus projetos</h2>
+
+> ## 🐯 Mutano™
+> ・Um bot simples tentando trazer o melhor sendo multifuncional para seu servidor e feito em Aoi.js
+> [Clique aqui](https://github.com/MutanoOrg) para mais informações :3
 
 <div align="center">
     <h2>👤 Contato</h2>
