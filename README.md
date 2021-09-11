@@ -4,7 +4,7 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/guihrib/gr-rib/blob/main/README.pt.md" alt="Portuguese">
+    <a href="https://github.com/gr-rib/gr-rib/blob/main/README.pt.md" alt="Portuguese">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Traduzir%20para&message=Portugues&color=555555">
     </a>
 </div>
