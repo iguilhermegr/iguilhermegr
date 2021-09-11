@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="https://github.com/guihrib/guihrib/blob/main/README.pt.md" alt="Português">
+    <a href="https://github.com/gr-rib/gr-rib/blob/main/README.pt.md" alt="Português">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Ling&message=Portugues&color=555555">
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/guihrib/" alt="English">
+    <a href="https://github.com/gr-rib/" alt="English">
         <img alt="English" src="https://img.shields.io/static/v1?style=for-the-badge&label=Translate%20for&message=English&color=555555">
     </a>
 </div>
@@ -57,7 +57,7 @@ Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow �
 </div>
 <p align="center">
     <a href="https://discord.com/users/852616816240885760">
-        <img alt="Discord" src="https://img.shields.io/badge/'GR™%230908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/gr.rib%237747-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://twitter.com/guihdsribeiro">
         <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
