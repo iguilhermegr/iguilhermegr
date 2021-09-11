@@ -25,8 +25,8 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 <p align="left">
     <div align="center">
         <a href="https://github.com/guihrib?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guihrib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
-            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=guihrib">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/gr-rib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
+            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=gr-rib">
         </a>
     </div>
 </p>
