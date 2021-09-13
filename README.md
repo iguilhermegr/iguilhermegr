@@ -120,7 +120,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </div>
 
 <div align="center">
-  <a href="https://github.com/guihrib/">
+  <a href="https://github.com/gr-rib/">
     <img alt="Snake Commit" src="https://github.com/gr-rib/gr-rib/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </div>
