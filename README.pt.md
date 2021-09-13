@@ -112,15 +112,15 @@ Se gostou dos trabalhos e repositÃ³rios publicados aqui, e se puder dar follow ð
 </div>
 
 <div align="center">
-  <a href="https://github.com/guihrib/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihrib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+  <a href="https://github.com/gr-rib/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gr-rib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr-rib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/guihrib/">
-    <img alt="Snake Commit" src="https://github.com/guihrib/guihrib/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Commit" src="https://github.com/gr-rib/gr-rib/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </div>
 
