@@ -119,7 +119,7 @@ Se gostou dos trabalhos e repositÃ³rios publicados aqui, e se puder dar follow ð
 </div>
 
 <div align="center">
-  <a href="https://github.com/guihrib/">
+  <a href="https://github.com/gr-rib/">
     <img alt="Snake Commit" src="https://github.com/gr-rib/gr-rib/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </div>
