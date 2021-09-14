@@ -19,9 +19,9 @@
 If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
 
 ## 🤔 About
-・Developer FullStack 📚 Junior
+**・Developer FullStack 📚 Junior
 ・Web🎨Designer
-・Free time 🎮Gamer
+・Free time 🎮Gamer**
 <p align="left">
     <div align="center">
         <a href="https://github.com/guihrib?tab=followers">
@@ -35,6 +35,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 
 > ## 🐯 Mutano™
 > ・A simple bot trying to bring the best of being multifunctional to your server and made in Aoi.js
+
 > [Click here](https://github.com/MutanoOrg) for more informations :3
 
 
@@ -58,7 +59,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </div>
 <p align="center">
     <a href="https://discord.com/users/852616816240885760">
-        <img alt="Discord" src="https://img.shields.io/badge/gr.rib%237747-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/GR%237747-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://twitter.com/guihdsribeiro">
         <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
