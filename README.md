@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="https://github.com/gr-rib/" alt="English">
+    <a href="https://github.com/grrib/" alt="English">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Lang&message=English&color=555555">
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/gr-rib/gr-rib/blob/main/README.pt.md" alt="Portuguese">
+    <a href="https://github.com/grrib/grrib/blob/main/README.pt.md" alt="Portuguese">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Traduzir%20para&message=Portugues&color=555555">
     </a>
 </div>
@@ -24,9 +24,9 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 ・Free time 🎮Gamer**
 <p align="left">
     <div align="center">
-        <a href="https://github.com/guihrib?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/gr-rib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
-            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=gr-rib">
+        <a href="https://github.com/grrib?tab=followers">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/grrib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
+            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=grrib">
         </a>
     </div>
 </p>
@@ -114,15 +114,15 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </div>
 
 <div align="center">
-  <a href="https://github.com/gr-rib/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gr-rib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr-rib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+  <a href="https://github.com/grrib/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grrib&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrib&layout=compact&langs_count=7&show_icons=true&theme=react&line_height=27&title_color=fffff1&bg_color=DEG,9E938E,D7D2D0" style="max-width:100%;">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/gr-rib/">
-    <img alt="Snake Commit" src="https://github.com/gr-rib/gr-rib/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/grrib/">
+    <img alt="Snake Commit" src="https://github.com/grrib/grrib/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </div>
 
