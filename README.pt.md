@@ -14,7 +14,7 @@
 # ✌ Olá, tudo bem? Espero que sim...  
 # Meu nome é Guilherme Ribeiro e tenho 16 anos! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
-> Gerente e Dono em **@MutanoOrg** 🐯
+> Dono e Gerente em **@MutanoOrg** 🐯
 
 Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow 🌟 vai ajudar muito 😋
 
