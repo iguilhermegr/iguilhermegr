@@ -14,7 +14,7 @@
 # ✌ Hi all right, I hope so...
 # My name is Guilherme Ribeiro and Im 16 years! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
-> CEO at **@MutanoOrg** 🐯
+> Owner and Manager at **@MutanoOrg** 🐯
 
 If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
 
