@@ -19,7 +19,7 @@
 If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
 
 ## 🤔 About
-**・Developer FullStack 📚 Junior
+**・Developer FrontEnd 📚 Junior
 ・Web🎨Designer
 ・Free time 🎮Gamer**
 <p align="left">
