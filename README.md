@@ -14,8 +14,6 @@
 # ✌ Hi all right, I hope so...
 # My name is Guilherme Ribeiro and Im 16 years! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
-> Owner and Manager at **@MutanoOrg** 🐯
-
 If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
 
 ## 🤔 About
@@ -30,14 +28,6 @@ If you can help and like the works and repositories posted here from a 🌟 foll
         </a>
     </div>
 </p>
-
-<h2 align="center">🤔 My Projects</h2>
-
-> ## 🐯 Mutano™
-> ・A simple bot trying to bring the best of being multifunctional to your server and made in Aoi.js
-
-> [Click here](https://github.com/MutanoOrg) for more informations :3
-
 
 <div align="center">
     <h2>👤 Contact</h2>
