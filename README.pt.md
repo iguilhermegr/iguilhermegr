@@ -49,7 +49,7 @@ Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow �
 </div>
 <p align="center">
     <a href="https://discord.com/users/852616816240885760">
-        <img alt="Discord" src="https://img.shields.io/badge/GR%237747-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/_GR%20_☕%234034-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://twitter.com/guihdsribeiro">
         <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
