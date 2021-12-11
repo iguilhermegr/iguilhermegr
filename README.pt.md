@@ -48,6 +48,9 @@ Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow �
     <h2>✌ Redes Sociais</h2>
 </div>
 <p align="center">
+    <img alt="Discord Banner" src="https://user-images.githubusercontent.com/61317250/145689583-4e63ef3d-6dfa-4663-95cb-8d4b653cd302.png">
+</p>
+<p align="center">
     <a href="https://discord.com/users/424931675009712128">
         <img alt="Discord" src="https://img.shields.io/badge/GR%231824-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
