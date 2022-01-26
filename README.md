@@ -52,16 +52,10 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </p>
 <p align="center">
     <a href="https://discord.com/users/424931675009712128">
-        <img alt="Discord" src="https://img.shields.io/badge/GR%231824-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/GR%233012-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://twitter.com/guihdsribeiro">
         <img alt="Twitter" src="https://img.shields.io/badge/guihdsribeiro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/guih.rib/">
-        <img alt="Instagram" src="https://img.shields.io/badge/guih.rib-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.tiktok.com/@guihrib">
-        <img alt="TikTok" src="https://img.shields.io/badge/@guihrib-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
     </a>
     <a href="https://www.twitch.tv/gr_rib">
         <img alt="Twitch" src="https://img.shields.io/badge/gr_rib-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
