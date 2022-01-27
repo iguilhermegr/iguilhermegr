@@ -34,7 +34,7 @@ Se gostou dos trabalhos e repositÃ³rios publicados aqui, e se puder dar follow ð
 </div>
 <p align="center">
     <a href="https://app.rocketseat.com.br/me/gr">
-        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=9E938E">
+        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-GR-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=9E938E">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="Meu Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=D7D2D0">
