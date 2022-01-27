@@ -33,8 +33,8 @@ If you can help and like the works and repositories posted here from a 🌟 foll
     <h2>👤 Contact</h2>
 </div>
 <p align="center">
-    <a href="https://app.rocketseat.com.br/me/guilhermedsribeiro">
-        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-Guilherme%20Ribeiro-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=9E938E">
+    <a href="https://app.rocketseat.com.br/me/gr">
+        <img alt="RocketSeat Badge" src="https://img.shields.io/badge/-GR-6633cc?style=flat-square&amp;logo=Polymer-Project&label=Rockeatseat&message=Guilherme%20Ribeiro&logoColor=white&color=9E938E">
     </a>
     <a href="https://www.linkedin.com/in/guilhermedsribeiro/">
         <img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=guilhermedsribeiro&color=D7D2D0">
