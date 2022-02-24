@@ -11,15 +11,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/61317250/127886709-f76743c3-6258-4f05-a7b3-4996493ef0ee.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
-# ✌ Hi all right, I hope so...
-# My name is Guilherme Ribeiro and Im 16 years! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
+# ✌ Hi! How are you? Hope you're fine...
+# My name's Guilherme Ribeiro and I'm 16 years old! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
-If you can help and like the works and repositories posted here from a 🌟 follow that helps a lot 😋
+If liked my workd and enjoyed the repositories I've posted here, please follow me 🌟 That'd help a lot 😋
 
 ## 🤔 About
-**・Developer FrontEnd 📚 Junior
-・Web🎨Designer
-・Free time 🎮Gamer**
+**・FrontEnd Jr Developer 📚
+・Web Designer 🎨
+・Gamer on my free times** 🎮
 <p align="left">
     <div align="center">
         <a href="https://github.com/guihrib?tab=followers">
@@ -30,7 +30,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </p>
 
 <div align="center">
-    <h2>👤 Contact</h2>
+    <h2>👤 Contact me</h2>
 </div>
 <p align="center">
     <a href="https://app.rocketseat.com.br/me/gr">
@@ -45,7 +45,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </p>
 
 <div align="center">
-    <h2>✌ Social</h2>
+    <h2>✌ Social medias</h2>
 </div>
 <p align="center">
     <a href="https://discord.com/users/424931675009712128">
@@ -60,7 +60,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </p>
 
 <div align="center">
-    <h2>📑 Tecnologies & Tools</h2>
+    <h2>📑 Technologies & Tools</h2>
     <p align="center">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -94,7 +94,7 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </div>
 
 <div align="center">
-    <h2>📈 My Data and Latest Results on my GitHub</h2>
+    <h2>📈 My GitHub's latest analytics</h2>
 </div>
 
 <div align="center">
@@ -111,5 +111,5 @@ If you can help and like the works and repositories posted here from a 🌟 foll
 </div>
 
 <div align="center">
-    <p style="color: blue; font-size: 50px;">Welcome to My GitHub!  </p>
+    <p style="color: blue; font-size: 50px;">Welcome to my GitHub profile!  </p>
 <div>
