@@ -12,7 +12,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/61317250/127886709-f76743c3-6258-4f05-a7b3-4996493ef0ee.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 # ✌ Hi! How are you? Hope you're great...
-# My name's Guilherme Ribeiro and I'm 16 years old! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
+# My name's Guilherme Ribeiro and I'm 16! ![tiger](https://user-images.githubusercontent.com/61317250/127888141-a992594a-6005-4856-9dd0-3127eba7e73d.gif)
 
 If you liked my works and enjoyed the repositories I created here, please follow me 🌟 That'd help a lot 😋
 
