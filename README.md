@@ -49,7 +49,7 @@ If you liked my works and enjoyed the repositories I created here, please follow
 </div>
 <p align="center">
     <a href="https://discord.com/users/424931675009712128">
-        <img alt="Discord" src="https://img.shields.io/badge/GR%233012-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord" src="https://img.shields.io/badge/GR%236553-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://www.twitch.tv/gr_rib">
         <img alt="Twitch" src="https://img.shields.io/badge/gr_rib-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
