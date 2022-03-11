@@ -23,8 +23,8 @@ Se gostou dos trabalhos e repositórios publicados aqui, e se puder dar follow �
 <p align="left">
     <div align="center">
         <a href="https://github.com/guihrib?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guihrib?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
-            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=guihrib">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/guihrib?style=for-the-badge&amp;logo=github&amp;label=Seguidores&amp;color=2D76BF">
+            <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=guihrib&style=&label=Visualizações+no+Perfil&style=for-the-badge">
         </a>
     </div>
 </p>
