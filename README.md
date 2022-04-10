@@ -16,8 +16,8 @@ If you liked my works and enjoyed the repositories I created here, please follow
 <table>
   <tr>
     <td style="padding: 0; width=50%">
-<details>
 <h3>🤔 About me</h3>
+<details>
 <summary><underline>flying to the future</underline></summary>
     <br>
 frontend, backend developer at 2y<br>
