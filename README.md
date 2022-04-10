@@ -17,9 +17,9 @@ If you liked my works and enjoyed the repositories I created here, please follow
   <tr>
     <td style="padding: 0; width=50%">
 <details>
-<summary>🤔 About me</summary>
+<h3>🤔 About me</h3>
+<summary><underline>flying to the future</underline></summary>
     <br>
-    <p>🍃flying to the future<br>
 frontend, backend developer at 2y<br>
 student at the technical college in t.i<br>
 brazilian, programmer, javascript student/enthusiast<br>
