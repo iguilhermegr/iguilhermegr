@@ -8,14 +8,14 @@
 
 <details>
     <summary><underline>・😸› Github stats..・</undedrline></summary>
-<a href="https://github.com/guihrib">
+<a href="https://github.com/flowingGR">
 <table>
   <tr>
     <td style="padding: 0; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/?username=guihrib&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
     </td>
       <td style="padding: 0; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihrib&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
     </td>
   </tr>
 </table>
