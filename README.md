@@ -30,7 +30,7 @@
 </details>
 
 <div align="center">
-  <a href="https://github.com/flowingGR" alt="GR">
-    <img src="https://discord.c99.nl/widget/theme-1/424931675009712128.png">
+  <a href="https://discord.com/users/424931675009712128" alt="GR">
+    <img src="https://lanyard.cnrad.dev/api/424931675009712128">
   </a>
 </div>
