@@ -1,13 +1,20 @@
-> # ☰☰▏  👋 hie, im **GR**!
+<div align="center">
+  <quote><h1>👋 hie, im <b>GR</b>!</h1></quote>
+</div>
+
 ##### › `Developer at 3y`
 ##### › `Life at 16y`
 ##### › `lizzie y wanda enthusiastic`
 <br>
 
-[![My Tools](https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,css,tailwind,sass,npm&theme=dark)](https://github.com/GR0622)
+<div align="center">
+  <a href="https://github.com/flowingGR" alt="GR">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,sass,css,tailwind&theme=dark&perline=4">
+  </a>
+</div>
 
 <details>
-    <summary><underline>・😸› Github stats..・</undedrline></summary>
+    <summary><underline><b> › ・ › Github stats..・</b></undedrline></summary>
 <a href="https://github.com/flowingGR">
 <table>
   <tr>
@@ -22,4 +29,8 @@
 </a>
 </details>
 
-![Discord banner](https://discord.c99.nl/widget/theme-1/424931675009712128.png)
+<div align="center">
+  <a href="https://github.com/flowingGR" alt="GR">
+    <img src="https://discord.c99.nl/widget/theme-1/424931675009712128.png">
+  </a>
+</div>
