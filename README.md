@@ -1,5 +1,6 @@
 <div align="center">
   <quote><h1>👋 hie, im <b>GR</b>!</h1></quote>
+  <src="byGR">
 </div>
 
 ##### › `Developer at 3y`
@@ -9,6 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/flowingGR" alt="GR">
+  <src="byGR">
     <img src="https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,sass,css,tailwind&theme=dark&perline=4">
   </a>
 </div>
