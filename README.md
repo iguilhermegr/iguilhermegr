@@ -30,10 +30,10 @@
 </table>
 </a>
 </details>
-
+<src="byGR">
+    
 <div align="center">
   <a href="https://discord.com/users/424931675009712128" alt="GR">
-    <src="byGR">
     <img src="https://lanyard.cnrad.dev/api/424931675009712128">
   </a>
 </div>
