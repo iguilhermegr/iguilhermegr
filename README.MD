@@ -34,6 +34,6 @@
     
 <div align="center">
   <a href="https://discord.com/users/424931675009712128" alt="GR">
-    <img src="https://lanyard.cnrad.dev/api/424931675009712128">
+    <img src="https://lanyard.cnrad.dev/api/424931675009712128" />
   </a>
 </div>
