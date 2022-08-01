@@ -1,11 +1,8 @@
 <div align="center">
-  <quote><h1>👋 hie, im <b>GR</b>!</h1></quote>
+  <h1>👋 hie, im <b>GR</b>!</h1>
+  <code><h2>› Developer at 3y and Life at 16y</h2></code>
   <src="byGR">
 </div>
-
-##### › `Developer at 3y`
-##### › `Life at 16y`
-##### › `lizzie y wanda enthusiastic`
 <br>
 
 <div align="center">
