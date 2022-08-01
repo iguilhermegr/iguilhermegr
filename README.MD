@@ -1,27 +1,24 @@
 <div align="center">
   <h1>👋 hie, im <b>GR</b>!</h1>
-  <code><h2>› Developer at 3y and Life at 16y</h2></code>
+  <code>› Developer at 3y and Life at 16y</code>
   <src="byGR">
-</div>
 <br>
-
-<div align="center">
+<br>
+<br>
   <a href="https://github.com/flowingGR" alt="GR">
   <src="byGR">
     <img src="https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,sass,css,tailwind&theme=dark&perline=4">
   </a>
-</div>
-
+<br>
+<br>
+<br>
 <details>
-    <summary><underline><b> › ・ › Github stats..・</b></undedrline></summary>
+    <summary><underline><b>› ・› Github Stats..・</b></underline></summary>
 <a href="https://github.com/flowingGR">
 <table>
   <tr>
-    <td style="padding: 0; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
-    </td>
-      <td style="padding: 0; width=50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+      <td style="width=100%">
+        <img style="border-radius: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&layout=compact&icon_color=00000000&count_private=true"/>
     </td>
   </tr>
 </table>
@@ -29,7 +26,6 @@
 </details>
 <src="byGR">
     
-<div align="center">
   <a href="https://discord.com/users/424931675009712128" alt="GR">
     <img src="https://lanyard.cnrad.dev/api/424931675009712128" />
   </a>
