@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 hie, im <b>GR</b>!</h1>
-  <code>› Developer at 3y and Life at 16y</code>
+  <code>› Developer at 3y and Life at 17y</code>
   <src="byGR">
 <br>
 <br>
