@@ -5,14 +5,14 @@
 <br>
 <br>
 <br>
-  <a href="https://github.com/flowingGR" alt="GR"><img src="https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,sass,css,tailwind&theme=dark&perline=4"></a>
+  <a href="https://github.com/GR-sh" alt="GR"><img src="https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,sass,css,tailwind&theme=dark&perline=4"></a>
 <br>
 <br>
   <details>
     <summary><underline><b>› ・› Github Stats..・</b></underline></summary>
     <table><tr><td style="padding: 0; width=50%">
-      <img src="https://github-readme-stats.vercel.app/api/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true" /></td>
-      <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowingGR&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" /></td></tr></table>
+      <img src="https://github-readme-stats.vercel.app/api/?username=GR-sh&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true" /></td>
+      <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GR-sh&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" /></td></tr></table>
   </details> 
   <a href="https://discord.com/users/424931675009712128" alt="GR"><img src="https://lanyard.cnrad.dev/api/424931675009712128" /></a>
   
