@@ -2,7 +2,6 @@
 
   # 👋 hie, im <b>GR</b>!
   <code align=center>› Developer at 3y and Life at 17y</code>
-
 <br>
 <br>
 <br>
