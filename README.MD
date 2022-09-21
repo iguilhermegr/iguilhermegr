@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/61317250/191613278-ff2147c1-2363-43ea-bdbd-86bea8a21265.png" width="90%" height="100px" />
+<img src="https://user-images.githubusercontent.com/61317250/191613278-ff2147c1-2363-43ea-bdbd-86bea8a21265.png" width="80%" height="100px" />
 
   # 👋🏻 Olá, sou <b>GR</b>!
   <code align=center>› Desenvolvedor à 3 anos. Vivo à 17 anos</code>
