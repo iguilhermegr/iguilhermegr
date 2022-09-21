@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/61317250/191613278-ff2147c1-2363-43ea-bdbd-86bea8a21265.png" width="100%" height="100px" />
+<img src="https://user-images.githubusercontent.com/61317250/191613278-ff2147c1-2363-43ea-bdbd-86bea8a21265.png" width="90%" height="100px" />
 
   # 👋🏻 Olá, sou <b>GR</b>!
   <code align=center>› Desenvolvedor à 3 anos. Vivo à 17 anos</code>
-<br>
 <br>
 <br>
   <a href="https://github.com/GR-sh" alt="GR"><img src="https://skillicons.dev/icons?i=js,nodejs,firebase,discord,html,sass,css,tailwind&theme=dark&perline=4"></a>
