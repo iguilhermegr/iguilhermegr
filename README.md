@@ -5,7 +5,7 @@
   # 👋🏻 Olá, sou <b>GR</b>!
   <code align=center>› Desenvolvedor à 3 anos. Vivo à 17 anos</code>
 <br>
-  <a href="https://github.com/GR-sh" alt="GR"><img src="https://skillicons.dev/icons?i=js,nodejs,firebase,mongo,discord,aws,html,sass,css,tailwind&theme=dark&perline=5"></a>
+  <a href="https://github.com/GR-sh" alt="GR"><img src="https://skillicons.dev/icons?i=coffeescript,js,typescript,nodejs,firebase,mongo,discord,aws,html,sass,css,tailwind&theme=dark&perline=6"></a>
 <br>
   <details>
     <summary><underline><b>› ・› Github Status..・</b></underline></summary>
