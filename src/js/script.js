@@ -36,11 +36,11 @@ function createProjectEntry(projectEntry) {
 
 const projects = [
                   new Project(
-                    "Website - uwu",
-                    "⚡ Designed with the best principles in mind, this website got created to show the world a new kind of pleasure",
-                    "HTML/CSS",
-                    "justtobbi/uwu",
-                    "https://justtobbi.github.io/uwu"
+                    "Lukita",
+                    "Your multifunctional and simple bot for Discord",
+                    "JavaScript",
+                    "gr-bots/lukita",
+                    "https://github.com/gr-bots/lukita"
                   )
                   
 ];
