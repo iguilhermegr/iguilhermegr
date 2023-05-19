@@ -99,7 +99,7 @@ h2, h3 {
   text-align: left;
 }
 .info__title__description, .projects__title__description {
-  color: #988BA2;
+  color: #D9E0EE;
 }
 .info__title .info__title__img-link, .projects__title .info__title__img-link {
   border: none;
@@ -109,7 +109,11 @@ h2, h3 {
 .info__title {
   display: flex;
   gap: 12px;
+  padding: 10px;
   align-items: flex-start;
+  background-size: cover;
+  background-image: url('../img/gr.dev.banner.png');
+  border-radius: 10px;
 }
 .info__title a {
   transition: filter ease-out 0.2s;
@@ -401,5 +405,3 @@ a:hover {
     display: inline;
   }
 }
-
-/*# sourceMappingURL=styles.css.map */

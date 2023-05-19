@@ -110,6 +110,7 @@ h2, h3 {
   display: flex;
   gap: 12px;
   align-items: flex-start;
+  background-image: url('');
 }
 .info__title a {
   transition: filter ease-out 0.2s;
@@ -568,5 +569,3 @@ a:hover {
 .color-script--cyan {
   color: #B5E8E0;
 }
-
-/*# sourceMappingURL=projects.css.map */
