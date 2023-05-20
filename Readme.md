@@ -1,5 +1,5 @@
 ------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/guidsribeiro/guidsribeiro/main/src/img/illustration.png?size=215" alt="illustration" align="right" width="215px" height="215px" />
+<img src="https://raw.githubusercontent.com/guidsribeiro/guidsribeiro/main/src/img/coding.png?size=215" alt="coding" align="right" width="215px" height="215px" />
 <div align="left">
 
  <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/61317250/229319653-07e3d55a-35a2-4fcd-9919-81aafb6b99e9.png" max-width="50px" width="50px"> Olá, meu nome é Guilherme <br>e mais conhecido como <b>GR</b>!</h1>
