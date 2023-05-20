@@ -396,6 +396,17 @@ a:hover {
     margin-right: 0;
     pointer-events: none;
   }
+  
+  .info__cat__hover-text__chat:focus {
+    margin-left: 40px;
+    margin-top: -2px;
+    width: 0;
+    height: 0;
+    border-top: 6px solid #ABE9B3;
+    border-right: 5px solid #ABE9B3;
+    border-left: 5px solid transparent;
+    border-bottom: 6px solid transparent;
+  }
 
   footer {
     text-align: left;
