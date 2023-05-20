@@ -19,13 +19,13 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @j
   <code align=center>› Contate-me para mais informações. Discord: catto gr#7129</code>
   <br>
   <br>
-  <code align=center>› Email, LinkedIn e outros estão anexados ao meu perifl</code>
+  <code align=center>› Email, LinkedIn e outros estão anexados ao meu perfil</code>
 
   <a href="https://github.com/guidsribeiro/">
     <img alt="Snake Commit" src="https://github.com/guidsribeiro/guidsribeiro/blob/output/github-contribution-grid-snake.svg" />
   </a>
 
 <h4 align="center">
-    Perfil de Guilherme Ribeiro 🍃
+  © 2019 - 2023 - Perfil de Guilherme Ribeiro (GR) 🍃
 </h4>
 </div>
