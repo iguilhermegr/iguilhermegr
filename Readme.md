@@ -21,6 +21,10 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @j
   <br>
   <code align=center>› Email, LinkedIn e outros estão anexados ao meu perifl</code>
 
+  <a href="https://github.com/guidsribeiro/">
+    <img alt="Snake Commit" src="https://github.com/guidsribeiro/guidsribeiro/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+
 <h4 align="center">
     Perfil de Guilherme Ribeiro 🍃
 </h4>
