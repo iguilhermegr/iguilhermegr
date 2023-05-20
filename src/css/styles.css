@@ -393,8 +393,11 @@ a:hover {
   }
 
   .info__cat {
-    margin-right: 0;
-    pointer-events: none;
+    margin-left: auto;
+    margin-right: 6px;
+    color: #ABE9B3;
+    flex-shrink: 0;
+    position: relative;
   }
   
   .info__cat:focus .info__cat__hover-text {
@@ -428,13 +431,6 @@ a:hover {
     border-right: 5px solid #ABE9B3;
     border-left: 5px solid transparent;
     border-bottom: 6px solid transparent;
-  }
-
-  .info__cat-div {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    position: relative;
   }
 
   footer {
