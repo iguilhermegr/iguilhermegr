@@ -397,6 +397,11 @@ a:hover {
     pointer-events: none;
   }
   
+  .info__cat:focus .info__cat__hover-text {
+    opacity: 1;
+    margin-top: 0;
+  }
+  
   .info__cat__hover-text__chat:focus {
     margin-left: 40px;
     margin-top: -2px;
