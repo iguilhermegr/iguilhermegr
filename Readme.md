@@ -16,7 +16,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @j
     <table><tr><td style="padding: 0; width=50%">
       <img src="https://github-readme-stats.vercel.app/api/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=false" /></td>
       <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=false" /></td></tr></table>  
-  <code align=center>› Contate-me para mais informações. Discord: catto gr#7129</code>
+  <code align=center>› Contate-me para mais informações </code>
   <br>
   <br>
   <code align=center>› Email, LinkedIn e outros estão anexados ao meu perfil</code>
