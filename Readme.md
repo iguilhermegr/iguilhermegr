@@ -37,7 +37,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @j
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="46" width="65" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" width="65" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="46" width="65" align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" height="50" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" width="65" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="React" height="50" width="65" align="center">
   <table><tr><td style="padding: 0; width=50%">
     <img src="https://github-readme-stats.vercel.app/api/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=false" /></td>
