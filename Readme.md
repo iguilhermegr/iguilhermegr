@@ -21,7 +21,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @j
 <div align="center"><br>
 
 ---
-### __📚 Tecnologias que uso para projetos pessoais e trabalho__
+### __🛸 Tecnologias que uso para projetos pessoais e trabalho__
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" width="65" align="center">   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" width="65" align="center">   
