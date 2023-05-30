@@ -1,6 +1,6 @@
 <img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/1eac3a09-19cf-4ab3-a275-5a0d191ddee5" width="2160px" height="200px">
 
----
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <img src="https://raw.githubusercontent.com/guidsribeiro/guidsribeiro/main/src/img/coding.png?size=215" alt="coding" align="right" width="215px" height="215px" />
 <div align="left">
 
@@ -14,7 +14,7 @@
  </div>
  <br>
 
----
+<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <div align="center">
 Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @joaohcrangel para esse curso. Comecei na área da programação a partir daí e fazendo pequenos projetos em HTML, CSS e um pouco de ExpressJS. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de back-end e gerenciamento de banco de dados. Hoje uso NextJS, Tailwind, Prisma, MySQL e MongoDB em meus projetos・Atualmente focado no curso Dominando o TypeScript da @hcodebr e aprendendo PHP, Laravel e mais sobre MySQL usando o Workbench com a @wdevel.web. Também tenho formação em Lógica Computacional e de Programação
 
@@ -44,9 +44,11 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação de @j
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" width="65" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="React" height="50" width="65" align="center">
+
+---
   <table><tr><td style="padding: 0; width=50%">
     <img src="https://github-readme-stats.vercel.app/api/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=false" /></td>
-      <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=false" /></td></tr></table>  
+    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=false" /></td></tr></table>  
   <code align=center>› Contate-me para mais informações </code>
   <br>
   <br>
