@@ -8,7 +8,7 @@
   
 - 🚀 Estagiando como Desenvolvedor Web em **@wdevel.web**
 - 💻 Desenvolvedor Full Stack JavaScript Junior 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
  </div>
