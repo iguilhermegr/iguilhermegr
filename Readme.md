@@ -4,12 +4,14 @@
 <img src="https://raw.githubusercontent.com/guidsribeiro/guidsribeiro/main/src/img/coding.png?size=215" alt="coding" align="right" width="215px" height="215px" />
 <div align="left">
 
- <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/61317250/229319653-07e3d55a-35a2-4fcd-9919-81aafb6b99e9.png" max-width="50px" width="50px"> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Olá,+como+vai?+Meu+nome+é+Guilherme;+mais+conhecido+por+todos+como+GR;Tenho+17+anos e sou Dev :)" max-width="47px"></h1>
+ <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/61317250/229319653-07e3d55a-35a2-4fcd-9919-81aafb6b99e9.png" max-width="50px" width="50px"> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Olá,+como+vai?+Meu+nome+é+Guilherme;+mais+conhecido+como+GR;e+tenho+17+anos" max-width="47px"></h1>
   
 - 🚀 Estagiando como Desenvolvedor Web em **@wdevel.web**
 - 💻 Desenvolvedor Full Stack JavaScript Junior 
 - 📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
+- 💛 Entusiasta em JavaScript
+- ☕ Amante de Café
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
  </div>
  <br>
