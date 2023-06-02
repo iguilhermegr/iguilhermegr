@@ -50,7 +50,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
 ---
   <table><tr><td style="padding: 0; width=50%">
     <img src="https://github-readme-stats.vercel.app/api/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
-    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
+    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidsribeiro&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
   <code align=center>› Contate-me para mais informações </code>
   <br>
   <br>
