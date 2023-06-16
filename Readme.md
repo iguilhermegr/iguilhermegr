@@ -10,7 +10,6 @@
 - 💻 Sou Desenvolvedor Web FrontEnd Junior
 - 📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
-- 💛 Entusiasta em JavaScript
 - ☕ Amante de Café
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
 - 💛 Entusiasta em JavaScript e Desenvolvedor Web FullStack Junior **no Ecossistema JavaScript**
