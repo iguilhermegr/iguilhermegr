@@ -6,8 +6,7 @@
 
  <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/61317250/229319653-07e3d55a-35a2-4fcd-9919-81aafb6b99e9.png" max-width="50px" width="50px"> <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Olá,+como+vai?+Meu+nome+é+Guilherme;+mais+conhecido+como+GR;e+tenho+17+anos" max-width="47px"></h1>
   
-- 🚀 Estagiando como Desenvolvedor Web em **@wdevel.web**
-- 💻 Sou Desenvolvedor Web FrontEnd Junior
+- 💻 Sou Desenvolvedor Web FrontEnd
 - 📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
 - ☕ Amante de Café
@@ -18,7 +17,7 @@
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <div align="center">
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pessoal e direta de @joaohcrangel para esse curso. Após o término do curso comecei a aprender independente, com pesquisas e estudos em documentações e vídeos. Comecei na área da programação a partir daí e fazendo pequenos projetos em HTML, CSS e um pouco de ExpressJS. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. Mas enquanto isso já aplicava e estudava independente e usando técnicas para treinamento de Autodidata e aprendendo muito em comunidades online e cursos da Rocketseat e eventos online. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de back-end e gerenciamento de banco de dados. Hoje uso NextJS, React, TailwindCSS, Prisma e MongoDB em meus projetos・Atualmente focado no aprendizado PHP, Laravel e mais sobre MySQL usando o Workbench em meu estágio como Desenvolvedor Web na @wdevel.web. Também tenho formação em Lógica Computacional e de Programação
+Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pessoal e direta de @joaohcrangel para esse curso. Após o término do curso comecei a aprender independente, com pesquisas e estudos em documentações e vídeos. Comecei na área da programação a partir daí e fazendo pequenos projetos em HTML, CSS e um pouco de ExpressJS. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. Mas enquanto isso já aplicava e estudava independente e usando técnicas para treinamento de Autodidata e aprendendo muito em comunidades online e cursos da Rocketseat e eventos online. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de back-end e gerenciamento de banco de dados. Hoje uso NextJS, React, TailwindCSS, Prisma e MongoDB em meus projetos. Também tenho certificados cursos em Lógica Computacional e de Programação
 
 <div align="center"><br>
 
