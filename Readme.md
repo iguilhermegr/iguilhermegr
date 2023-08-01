@@ -1,4 +1,4 @@
-<img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/9c133841-dc92-4578-973a-4c577f67e2c3">
+<img src="https://github.com/guidsribeiro/guidsribeiro/blob/main/src/img/gr.dev.banner.png">
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="215px" height="215px" />
