@@ -1,7 +1,7 @@
 <img src="https://github.com/guidsribeiro/guidsribeiro/blob/main/src/img/gr.dev.banner.png">
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
-<img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="215px" height="215px" />
+<img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="155px" height="155px" />
 <div align="left">
 
  <h1 align="center"><img align="left" src="https://user-images.githubusercontent.com/61317250/229319653-07e3d55a-35a2-4fcd-9919-81aafb6b99e9.png" max-width="35px" width="35px"><img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Ol%C3%A1,+como+vai?+Meu+nome+%C3%A9+Guilherme,+mais+conhecido+como+GR+e+tenho+18+anos"></h1>
