@@ -8,7 +8,7 @@
  <div align="left">
  
 - 💻 Sou Desenvolvedor Web FrontEnd
-- 📚 Há 2 anos de 3, cursando Análise e Desenvolvimento de Sistemas
+- 📚 Há 2 anos de 3, cursando Desenvolvimento de Sistemas
 - 🎓 20 cursos como Desenvolvedor Web com certificados
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
 - ☕ Amante de Café
