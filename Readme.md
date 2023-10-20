@@ -25,9 +25,8 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
 
 ---
 ### __🛸 Tecnologias que uso em meu dia a dia__
-<br>![Uploading next-js.svg…]()
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="46" width="65" align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" height="46" width="65" align="center">
 <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.svg" alt="Prisma" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" height="46" width="65" align="center"><br/>
