@@ -9,10 +9,10 @@
  
 - 💻 Sou Desenvolvedor Web FrontEnd
 - 📚 Há 2 anos de 3, cursando Desenvolvimento de Sistemas
-- 🎓 20 cursos como Desenvolvedor Web FrontEnd com certificados
+- 🎓 Especializado como Desenvolvedor Web FrontEnd com certificados
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
 - ☕ Amante de Café
-- ♾️ Sempre me desenvolvendo até não poder quebrar o meu limite
+- 🚀 Sempre me desenvolvendo até não poder quebrar o meu limite
 - ⚛️ Focando em React e Next.js
 - 💛 Entusiasta em JavaScript
  </div>
