@@ -12,14 +12,15 @@
 - 🎓 20 cursos como Desenvolvedor Web FrontEnd com certificados
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
 - ☕ Amante de Café
-- ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
+- ♾️ Sempre me desenvolvendo até não poder quebrar o meu limite
+- ⚛️ Focando em React e Next.js
 - 💛 Entusiasta em JavaScript
  </div>
  <br>
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <div align="center">
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pessoal e direta de @joaohcrangel para esse curso. Após o término do curso comecei a aprender independente, com pesquisas e estudos em documentações e vídeos. Comecei na área da programação a partir daí e fazendo pequenos projetos em HTML, CSS e um pouco de ExpressJS. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. Mas enquanto isso já aplicava e estudava independente e usando técnicas para treinamento de Autodidata e aprendendo muito em comunidades online e cursos da Rocketseat e eventos online. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de back-end e gerenciamento de banco de dados. Hoje uso NextJS, React, TailwindCSS, Prisma e MongoDB em meus projetos. Também tenho certificados cursos em Lógica Computacional e de Programação
+Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pessoal e direta de @joaohcrangel para esse curso. Após o término do curso comecei a aprender independente, com pesquisas e estudos em documentações e vídeos. Comecei na área da programação e a partir daí fui fazendo pequenos projetos em HTML, CSS e ExpressJS os quais não publiquei. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. E enquanto isso já aplicava e estudava independentemente usando técnicas para treinamento Autodidata e aprendendo muito em comunidades online e cursos da Rocketseat e eventos online. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de BackEnd e gerenciamento de banco de dados. Hoje meu foco é FrontEnd e uso NextJS, React, TailwindCSS, Prisma e MongoDB em meus projetos. Também sou certificado em Lógica Computacional e de Programação.
 
 <div align="center"><br>
 
@@ -27,7 +28,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
 ### __🛸 Tecnologias que uso em meu dia a dia__
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" height="46" width="65" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" height="46" width="65" align="center">
 <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.svg" alt="Prisma" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" height="46" width="65" align="center"><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="46" width="65" align="center"> 
@@ -42,13 +43,13 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
   <br/>
   <sumary><underline>🤔 Tecnologias adicionais  /  Alguns não aprofundados</underline></sumary><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="46" width="65" align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="46" width="65" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="46" width="65" align="center">
   <img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/a0811fc4-9fa0-4df2-a549-39989c2b2d84" height="46" width="63" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="46" width="65" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="65" width="65" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP8" height="65" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" width="65" align="center">
 </details>
 
