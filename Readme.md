@@ -8,7 +8,7 @@
  <div align="left">
  
 - 💻 Sou Desenvolvedor Web FrontEnd
-- 📚 Há 2 anos de 3, cursando Desenvolvimento de Sistemas
+- 📚 Há 3 anos de 3, cursando Desenvolvimento de Sistemas
 - 🎓 Especializado como Desenvolvedor Web FrontEnd com certificados
 - 🦸‍♂️ Apaixonado por Marvel e Super Heróis
 - ☕ Amante de Café
@@ -67,6 +67,6 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
   </a>
 
 <h4 align="center">
-  © Developer 2019 - 2023 - Perfil de Guilherme Ribeiro (GR) 🍃
+  © Developer 2019 - 2024 - Perfil de Guilherme Ribeiro (GR) 🍃
 </h4>
 </div>
