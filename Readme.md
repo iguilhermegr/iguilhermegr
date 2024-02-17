@@ -30,10 +30,10 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" height="46" width="65" align="center">
 <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.svg" alt="Prisma" height="46" width="65" align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" height="46" width="65" align="center"><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="46" width="65" align="center"><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="DiscordJS" height="46" width="65" align="center"><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="46" width="65" align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="46" width="65" align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" width="65" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="46" width="65" align="center">
 <img src="https://www.svgrepo.com/show/353723/expo-icon.svg" alt="Expo" height="46" width="65" align="center">
@@ -49,7 +49,7 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
   <img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/a0811fc4-9fa0-4df2-a549-39989c2b2d84" height="46" width="63" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="46" width="65" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP8" height="65" width="65" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP8" height="65" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" width="65" align="center">
 </details>
 
