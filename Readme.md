@@ -1,31 +1,30 @@
-<img src="https://github.com/guidsribeiro/guidsribeiro/blob/main/src/img/gr.dev.banner.png">
+<img src="https://github.com/iguilhermegr/iguilhermegr/blob/main/src/img/gr.dev.banner.png">
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
+<h1 align="center"><img align="center" src="https://github.com/iguilhermegr/iguilhermegr/assets/61317250/e8a388aa-fe2f-44d6-89f4-c7d3f6a96611" max-width="45px" width="45px"> <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Hello,+how+are+you?+My+name+is+Guilherme,+also+known+as+GR+and+Im+18"></h1>
+<img src="https://github.com/iguilhermegr/iguilhermegr/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="165px" height="165px" />
+<div align="left">
 
- <h1 align="center"><img align="center" src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/e8a388aa-fe2f-44d6-89f4-c7d3f6a96611" max-width="45px" width="45px"> <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=6000&pause=2000&width=720&lines=Ol%C3%A1,+como+vai?+Meu+nome+%C3%A9+Guilherme,+mais+conhecido+como+GR+e+tenho+18+anos"></h1>
- <img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/07fc84e7-c077-4e33-a39f-a5493431a707" alt="coding" align="right" width="165px" height="165px" />
- <div align="left">
- 
-- 💻 Sou Desenvolvedor Web FrontEnd
-- 📚 Há 3 anos de 3, cursando Desenvolvimento de Sistemas
-- 🎓 Especializado como Desenvolvedor Web FrontEnd com certificados
-- 🦸‍♂️ Apaixonado por Marvel e Super Heróis
-- ☕ Amante de Café
-- 🚀 Sempre me desenvolvendo até não poder quebrar o meu limite
-- ⚛️ Focando em React e Next.js
-- 💛 Entusiasta em JavaScript
- </div>
- <br>
+- 💻 Im a Software Developer
+- 📚 3 out of 3 years studying System Development
+- 🎓 Specialized as a FrontEnd Web Developer with certificates
+- 🦸‍♂️ Passionate about Marvel and Superheroes
+- ☕ Coffee Lover
+- 🚀 Always developing myself until I can't break my limit
+- ⚛️ Focusing on React and Next.js
+- 💛 JavaScript Enthusiast
+</div>
+<br>
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <div align="center">
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pessoal e direta de @joaohcrangel para esse curso. Após o término do curso comecei a aprender independente, com pesquisas e estudos em documentações e vídeos. Comecei na área da programação e a partir daí fui fazendo pequenos projetos em HTML, CSS e ExpressJS os quais não publiquei. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. E enquanto isso já aplicava e estudava independentemente usando técnicas para treinamento Autodidata e aprendendo muito em comunidades online e cursos da Rocketseat e eventos online. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de BackEnd e gerenciamento de banco de dados. Hoje meu foco é FrontEnd e uso NextJS, React, TailwindCSS, Prisma e MongoDB em meus projetos. Também sou certificado em Lógica Computacional e de Programação.
+I discovered HTML on December 13, 2019, through Hcode and a personal recommendation from @joaohcrangel for this course. After finishing the course, I started learning independently, with research and studies in documentation and videos. I began in the programming area and from there I started doing small projects in HTML, CSS, and ExpressJS which I didn't publish. I specialized in front-end on 6/3/23. After a while, I started studying JavaScript on my own with the help of Hcode and its course. Meanwhile, I was already applying and studying independently using techniques for self-taught training and learning a lot in online communities and courses from Rocketseat and online events. I learned and started applying more ExpressJS and Firebase. Since then, I've been looking to learn more and more about BackEnd and database management. Today my focus is FrontEnd and I use NextJS, React, TailwindCSS, Prisma, and MongoDB in my projects. I'm also certified in Computational Logic and Programming.
 
 <div align="center"><br>
 
 ---
-### __🛸 Tecnologias que uso em meu dia a dia__
+### __🛸 Technologies I use in my daily life__
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" height="46" width="65" align="center">
@@ -41,12 +40,12 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
 <br/><br/>
 <details>
   <br/>
-  <sumary><underline>🤔 Tecnologias adicionais  /  Alguns não aprofundados</underline></sumary><br/>
+  <sumary><underline>🤔 Additional technologies / Some not in-depth</underline></sumary><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="46" width="65" align="center">
-  <img src="https://github.com/guidsribeiro/guidsribeiro/assets/61317250/a0811fc4-9fa0-4df2-a549-39989c2b2d84" height="46" width="63" align="center">
+  <img src="https://github.com/iguilhermegr/iguilhermegr/assets/61317250/a0811fc4-9fa0-4df2-a549-39989c2b2d84" height="46" width="63" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP8" height="65" width="65" align="center">
@@ -55,18 +54,18 @@ Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pesso
 
 ---
   <table><tr><td style="padding: 0; width=50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=guidsribeiro&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
-    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidsribeiro&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
-  <code align=center>› Contate-me para mais informações </code>
+    <img src="https://github-readme-stats.vercel.app/api/?username=iguilhermegr&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td>
+    <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguilhermegr&langs_count=7&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=true&hide_border=true&hide_title=false" /></td></tr></table>  
+  <code align=center>› Contact me for more information </code>
   <br>
   <br>
-  <code align=center>› Email, LinkedIn e outros estão anexados ao meu perfil</code>
+  <code align=center>› Email, LinkedIn, and others are attached to my profile</code>
 
-  <a href="https://github.com/guidsribeiro/">
-    <img alt="Snake Commit" src="https://github.com/guidsribeiro/guidsribeiro/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/iguilhermegr/">
+    <img alt="Snake Commit" src="https://github.com/iguilhermegr/iguilhermegr/blob/output/github-contribution-grid-snake.svg" />
   </a>
 
 <h4 align="center">
-  © Developer 2019 - 2024 - Perfil de Guilherme Ribeiro (GR) 🍃
+  © Developer 2019 - 2024 - Profile of Guilherme Ribeiro (GR) 🍃
 </h4>
 </div>
