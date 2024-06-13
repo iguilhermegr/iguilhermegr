@@ -39,8 +39,9 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
 
 <br/><br/>
 <details>
+  <summary>Learn more</summary>
   <br/>
-  <sumary><underline>🤔 Additional technologies / Some not in-depth</underline></sumary><br/>
+  <sumary>🤔 Additional technologies / Some not in-depth</underline></sumary><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="46" width="65" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="46" width="65" align="center">
@@ -59,7 +60,7 @@ I discovered HTML on December 13, 2019, through Hcode and a personal recommendat
   <code align=center>› Contact me for more information </code>
   <br>
   <br>
-  <code align=center>› Email, LinkedIn, and others are attached to my profile</code>
+  <code align=center>› Email, Discord, and others are attached to my profile</code>
 
   <a href="https://github.com/iguilhermegr/">
     <img alt="Snake Commit" src="https://github.com/iguilhermegr/iguilhermegr/blob/output/github-contribution-grid-snake.svg" />
