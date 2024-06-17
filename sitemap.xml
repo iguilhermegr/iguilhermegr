@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
    <url>
-      <loc>http://guidsribeiro.tech/</loc>
+      <loc>http://iguilhermegr.dev/</loc>
    </url>
 
    <url>
-      <loc>http://guidsribeiro.tech/projetos</loc>
+      <loc>http://iguilhermegr.dev/projects</loc>
    </url>
 
    <url>
-      <loc>http://guidsribeiro.tech/servicos</loc>
+      <loc>http://iguilhermegr.dev/services</loc>
    </url>
 
    <url>
-      <loc>http://guidsribeiro.tech/en</loc>
+      <loc>http://iguilhermegr.dev/pt-br</loc>
    </url>
 
    <url>
-      <loc>http://guidsribeiro.tech/en/projects</loc>
+      <loc>http://iguilhermegr.dev/projetos</loc>
    </url>
 
    <url>
-      <loc>http://guidsribeiro.tech/en/services</loc>
+      <loc>http://iguilhermegr.dev/servicos</loc>
    </url>
 
 </urlset>
