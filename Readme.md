@@ -1,4 +1,4 @@
-<img src="https://github.com/iguilhermegr/iguilhermegr/blob/main/src/img/gr.dev.banner.png">
+<img src="https://github.com/iguilhermegr/iguilhermegr/blob/main/src/img/gr.dev.banner.min.png">
 
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
